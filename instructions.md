@@ -22,6 +22,19 @@ In this exercise, you must decide upon a concept for a mobile app that solves sp
 
 Before you can evaluate product ideas, you must first identify your target end-user -- the specific kind(s) of person for whom you are developing this app. This can be any type of person for whom you are willing to design an app.
 
+- **Trading platform for NYU students to exchange books, clothes, etc.**
+  - Like craigslist/depop/second hand stuff but verified nyu edition
+- Social aspect 
+  - Possibly like NYU only school related facebook (NYU clothes/supplies) 	
+  - craigslist/depop/second hand stuff but verified nyu edition
+  - Similar interests (like clubs) → can form groups + communicate 
+- UI similar to depop 
+  - List items willing to trade on profile 
+  - Sections: school supplies, dorm/apartment furniture, clothes 
+  - For books → users put ISBN # + notify other users who want that book 
+- End users: Students 
+
+
 ## Stakeholder Interview
 
 Interview at least one person who is a good representative of the type of person for whom you are designing an app. Ask them questions about their goals, needs and desires. Find out problems and frustrations they have that a mobile app might be able to help with. You should be able to identify at least four goals/needs and four problems/frustrations.
